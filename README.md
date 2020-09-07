@@ -3,6 +3,8 @@ A universal QML style set for OSM Geofabrik Shapefile extracts for use in QGIS
 
 The current version is still far from beeing finished, but will be updated regulary.
 
+Note: This project has been merged from https://github.com/MrXsquared/OSM-Geofabrik_Universal-QML-Style
+
 # What it is
 This is a style set for QGIS in .qml format for osm extracts in shapefile format from http://download.geofabrik.de/.
 
